@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <widget xmlns="http://www.w3.org/ns/widgets" height="320" id="http://LoveMeter" version="2.5" viewmodes="windowed fullscreen" width="240">
+    
+    <name short="LoveTest">LoveMeter</name>    
+
+    <description>
+        Just simple love test metter
+    </description>
+    
+    <author email="syntasium@gmail.com" href="http://www.syntasium.com">
+        Syarief
+    </author>
+    
+    <icon src="icon.png"/>
+  
+    <content src="index.html"/>
+    
+    <license>
+       syntasium developer, 2012.
+    </license>
+    
+    <feature name="nokia://s40.nokia.com/SAWRT/2.0" required="true" />
+</widget>
